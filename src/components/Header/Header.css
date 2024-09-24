@@ -1,0 +1,18 @@
+.header {
+  background: url(https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-black-ray-universal-background-backgroundgeneral-background-image_72912.jpg);
+  text-align: center;
+  color: #fff;
+  padding: 25px 0;
+}
+
+.header h1 {
+  font-size: 25px;
+  font-family: serif;
+  text-transform: uppercase;
+}
+
+.header p {
+  font-size: 9px;
+  margin-top: 1rem;
+  text-decoration: solid underline #310946 2px;
+}
